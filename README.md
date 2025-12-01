@@ -6,3 +6,6 @@ Instructions coming soon...
 Details Coming Soon!
 ## contributing
 Feel free to submit pull requests or open issues!
+
+## Section by James
+some comments from James
